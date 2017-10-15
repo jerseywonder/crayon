@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){"Desktop"==hardware&&viewportWidth>940&&!rubbishbrowser&&skrollr.init({forceHeight:!1})}),console.log();

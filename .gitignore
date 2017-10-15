@@ -1,0 +1,6 @@
+**/.DS_Store
+*.sh
+*.log
+node_modules/
+process/
+development/
